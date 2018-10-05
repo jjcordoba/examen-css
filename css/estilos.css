@@ -1,0 +1,17 @@
+.cabecera {
+    background-color: #5b7989;
+    background-position: 20px 20px;
+    text-align: right;
+    text-indent: tex;
+    clear: right;
+    float: right;
+    height: auto;
+    width: auto;
+    position: relative;
+    right: auto;
+	text-shadow: 0px 2px #02010a;
+}
+.menu {
+    text-align: left;
+
+}
